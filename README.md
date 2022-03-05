@@ -1,5 +1,5 @@
 # Minotaur
-A program that solves the minotaur birthday party problem and minotaurs crystal vase problem using multi threading.
+A program that solves the minotaurs birthday party problem and minotaurs crystal vase problem using multi threading.
 
 ## Problem 1
 The Minotaur invited N guests to his birthday party. When the guests arrived, he made the following announcement.
